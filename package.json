@@ -1,0 +1,11 @@
+{
+  "name": "nocloud_js",
+  "version": "1.0.0",
+  "description": "library used for access nocloud API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Korolev",
+  "license": "ISC"
+}
